@@ -1,7 +1,7 @@
 {
-  "name": "ShiraoriBOT-Md",
-  "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+  "name": "Ayraku-bot",
+  "description": "Lightweight WhatsApp Bot with Baileys",
+  "repository": "https://github.com/dmibots/ayraku",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": [
     "bot",
